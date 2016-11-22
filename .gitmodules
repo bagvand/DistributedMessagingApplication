@@ -1,0 +1,6 @@
+[submodule "DistributedMessagingApplication-Server"]
+	path = DistributedMessagingApplication-Server
+	url = https://github.com/erfan111/DistributedMessagingApplication-Server
+[submodule "DistributedMessagingApplication-Client"]
+	path = DistributedMessagingApplication-Client
+	url = https://github.com/erfan111/DistributedMessagingApplication-Client
